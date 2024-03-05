@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+	<link href="../estilos.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div id="Encabezado">BURGER KING</div>
+<div id="menu"><!-- TemplateBeginEditable name="menu" --><a href="../index.html">INICIO</a> | <a href="../menú.html">MENU</a> | <a href="../a la parrilla.html">A LA PARRILLA</a> | <a href="../complementos.html">COMPLEMENTOS</a><!-- TemplateEndEditable --></div>
+<div id="cuerpo"><!-- TemplateBeginEditable name="cuerpo" -->
+  <p>¡Bienvenido a Burger King, donde el sabor es rey!</p>
+  <p>En Burger King, nos enorgullece ser tu destino favorito para disfrutar de deliciosas hamburguesas y comida rápida de alta calidad. Desde nuestro inicio, nos hemos comprometido a ofrecer sabores inigualables y experiencias gastronómicas inolvidables.</p>
+  <p>Nuestras jugosas hamburguesas están hechas con ingredientes frescos y de la mejor calidad, cocinadas a la parrilla para lograr ese sabor irresistible que te encanta. Además, nuestra variada oferta de opciones incluye pollo crujiente, ensaladas frescas y acompañamientos irresistibles que complacen todos los antojos.</p>
+  <p>En Burger King, la satisfacción de nuestros clientes es nuestra prioridad. Nuestro equipo dedicado trabaja incansablemente para garantizar que cada visita sea una experiencia memorable. Ya sea que desees disfrutar de una comida rápida con amigos o llevar a casa un festín para toda la familia, en Burger King, siempre encontrarás algo delicioso que se adapte a tu gusto.</p>
+<!-- TemplateEndEditable --></div>
+<div id="pie">
+  <div id="pie2"><img src="../LOGO5.png" width="100" height="100" alt=""/><img src="../LOGO2.png" width="100" height="100" alt=""/><img src="../LOGO3.png" width="100" height="100" alt=""/></div>
+	
+  <div id="derechosreservados">Derechos Reservados 2024 Jesus Varela, Ian Gonzales y Pablo Arellano</div>
+</div>
+</body>
+</html>
+
+	
+
+
+
+

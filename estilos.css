@@ -1,0 +1,45 @@
+#Encabezado {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size:40px;
+    color: #ffffff;
+    background-color: #F74C4F;
+    text-align: center;
+    height: 100px;
+    width: 1000px;
+}
+#menu {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    text-align: center;
+    clear: both;
+    width: 1000px;
+}
+#cuerpo {
+    width: 1000px;
+	background-color: #F74C4F;
+	color: white
+}
+#pie {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 35px;
+    font-style: italic;
+	background-color: #F74C4F;
+    height: 100px;
+    width: 1000px;
+}
+#pie2 {
+    background-color: #FFFFFF;
+    height: 100px;
+    width: 500px;
+	float: left;
+}
+#pie {
+}
+#derechosreservados {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 25px;
+    font-style: italic;
+	 height: 100px;
+    width: 500px;
+	float:left;
+}
